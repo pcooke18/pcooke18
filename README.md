@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0C2340&text=Welcome!&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0C2340&text=Welcome%20to%20my%20page!&fontColor=ffffff&animation=twinkling)
 
 Join me on my journey of undestranding the world through analytics.
 
